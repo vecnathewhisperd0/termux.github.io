@@ -1,5 +1,5 @@
 ### Termux.dev
-
+[![Trigger termux.com sync](https://github.com/vecnathewhisperd0/termux.github.io/actions/workflows/trigger_termux_com_sync.yml/badge.svg?branch=master)](https://github.com/vecnathewhisperd0/termux.github.io/actions/workflows/trigger_termux_com_sync.yml)
 This is the source repository for [termux.github.io](https://termux.github.io) and its custom domain [termux.dev]. The [termux.org] is redirected to [termux.dev]. The [termux.com](https://termux.com/) is mirrored from [termux/termux.com](https://github.com/termux/termux.com) currently, until it can be redirected to [termux.dev].
 ##
 
