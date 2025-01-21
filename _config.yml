@@ -18,13 +18,13 @@ lang: en
 supported_langs: [en,cn]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://termux.dev" # the base hostname & protocol for your site, e.g. http://example.com
-site_source: "https://github.com/termux/termux.github.io"
-twitter_username: termuxdevs
-mastodon:
+site_source: "https://github.com/vecnathewhisperd0/termux.github.io"
+
+termux:
   -
-    username: termux
-    instance: fosstodon.org
-github_username:  termux
+    username: vecnathewhisperd0
+    instance: termux.org
+github_username:  vecnathewhisperd0
 
 github: [metadata]
 
